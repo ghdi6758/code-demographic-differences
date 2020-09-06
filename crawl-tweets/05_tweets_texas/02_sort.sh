@@ -1,0 +1,2 @@
+sort -u -o user_time_tweetid_hashtag_lower_texas.txt user_time_tweetid_hashtag_lower_texas.txt
+sort -k 2 -o sorted_user_time_tweetid_hashtag_lower_texas.txt user_time_tweetid_hashtag_lower_texas.txt
